@@ -2,5 +2,4 @@
 
 a
 list
-of
 items
